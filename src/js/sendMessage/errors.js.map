@@ -1,0 +1,1 @@
+{"version":3,"file":"errors.js","sourceRoot":"","sources":["../../ts/sendMessage/errors.ts"],"names":[],"mappings":"AAAA,OAAO,EAAC,aAAa,EAAC,MAAM,UAAU,CAAC;AAEvC,MAAM,eAAgB,SAAQ,KAAK;IAClC,YAAY,OAAe;QAC1B,KAAK,CAAC,OAAO,GAAG,aAAa,CAAC,eAAe,CAAC,CAAC;QAC/C,IAAI,CAAC,IAAI,GAAG,iBAAiB,CAAC;IAC/B,CAAC;CACD;AAED,OAAO,EAAC,eAAe,EAAC,CAAC"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"consts.js","sourceRoot":"","sources":["../../ts/sendMessage/consts.ts"],"names":[],"mappings":"AAAA,MAAM,aAAa,GAAG;IACrB,eAAe,EAAE,yFAAyF;CAC1G,CAAC;AAEF,MAAM,KAAK,GAAG,EAAE,CAAC;AACjB,MAAM,KAAK,GAAG,GAAG,CAAC;AAElB,OAAO,EAAC,aAAa,EAAE,KAAK,EAAE,KAAK,EAAC,CAAC"}

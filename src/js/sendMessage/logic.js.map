@@ -1,0 +1,1 @@
+{"version":3,"file":"logic.js","sourceRoot":"","sources":["../../ts/sendMessage/logic.ts"],"names":[],"mappings":"AAEA,SAAS,aAAa,CAAC,mBAA4C;IAClE,mBAAmB,CAAC,YAAY,CAAC,SAAS,CAAC,GAAG,CAAC,yBAAyB,CAAC,CAAC;IAC1E,OAAO,mBAAmB,CAAC,QAAQ,CAAC,OAAO,CAAC,SAAS,CAAC,IAAI,CAAC,CAAC;AAC7D,CAAC;AAED,OAAO,EAAC,aAAa,EAAC,CAAC"}
